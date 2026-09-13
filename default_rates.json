@@ -1,0 +1,50 @@
+{
+  "currency": "USD",
+  "rates": {
+    "EN": {
+      "translation": 0.12,
+      "lqa": 0.05
+    },
+    "JA": {
+      "translation": 0.18,
+      "lqa": 0.09
+    },
+    "ZH": {
+      "translation": 0.09,
+      "lqa": 0.022
+    },
+    "ES": {
+      "translation": 0.09,
+      "lqa": 0.03
+    },
+    "FR": {
+      "translation": 0.13,
+      "lqa": 0.07
+    },
+    "DE": {
+      "translation": 0.13,
+      "lqa": 0.07
+    }
+  },
+  "default": {
+    "translation": 0.08,
+    "lqa": 0.02
+  },
+  "llm_rates": {
+    "claude-sonnet-5": {
+      "input_per_million": 2.00,
+      "output_per_million": 10.00
+    }
+  },
+  "mt_rates": {
+    "deepl": {
+      "per_million_chars": 25.00
+    }
+  },
+  "alert_thresholds": {
+    "word_count": 1000,
+    "cost_usd": 300
+  }
+}
+
+

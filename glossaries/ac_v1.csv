@@ -1,0 +1,11 @@
+source_term,target_term,notes
+왕가의 문장,Royal Crest,"Key quest item in QUEST_004, QUEST_005, and ITEM_003. Capitalize both words."
+잊혀진 왕관,Forgotten Crown,Title of the main questline (QUEST_001) and lore item.
+달빛의 물약,Potion of Moonlight,"Consumable item (ITEM_002). Standard format: 'Potion of [Element]'."
+녹슨 철검,Rusted Iron Sword,Starter weapon name (ITEM_001).
+경비대장,Captain of the Guard,NPC official title (NPC_002).
+여관 주인,Innkeeper,NPC role name (NPC_003).
+치명타!,Critical Hit!,Combat floating text (BATTLE_005). Keep exclamation point.
+전설의 시작,Beginning of the Legend,Achievement title (ACH_003).
+체력,HP,"Use short form 'HP' for HUD/UI labels (HUD_004, HUD_007) and system messages."
+마나,MP,"Use short form 'MP' for HUD/UI labels (HUD_005, HUD_008) and system messages."
