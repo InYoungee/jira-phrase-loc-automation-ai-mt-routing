@@ -85,7 +85,8 @@ flowchart TD
 | Notifications | Slack Incoming Webhooks |
 
 ## Demo
-![Dashboard Demo](https://github.com/InYoungee/llm-translation-quality-evaluation/blob/main/images/llm_eval.gif)
+![Dashboard Demo](https://github.com/InYoungee/jira-phrase-loc-automation-ai-mt-routing/blob/main/assets/end-to-end%20process.gif)
+![Dashboard Demo](https://github.com/InYoungee/jira-phrase-loc-automation-ai-mt-routing/blob/main/assets/end-to-end%20process.gif)
 
 *(Screenshots / screen recording go here — Jira issue → Slack alert → Streamlit dashboard)*
 
