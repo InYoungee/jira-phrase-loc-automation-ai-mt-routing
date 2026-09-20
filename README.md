@@ -1,4 +1,4 @@
-# Jira → Phrase Localization Automation with Hybrid AI/MT Routing
+# Jira → Phrase Localization Automation with AI/MT Hybrid Routing
 
 An event-driven pipeline that connects Jira and Phrase TMS, automatically routes game
 localization strings between AI/MT translation and human linguists based on content risk,
